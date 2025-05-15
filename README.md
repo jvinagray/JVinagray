@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeremy Vinagray  
 
-**Aspiring Software Engineer | Future Quant Trader | CS Student at WGU**  
+**Aspiring Software Engineer | Future Machine Learning Engineer | CS Student at WGU**  
 
 🔹 Currently learning **Java** & **Python**  
 🔹 Studying **Computer Science** at WGU (Graduating End of 2025)  
